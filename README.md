@@ -13,8 +13,6 @@ To use this stop watch, simply download the files and open the index.html file i
 # Usage
 Click the start button to begin the timer. Click the stop button to pause the timer. Click the reset button to reset the timer to 00:00:00.
 
-# Credits
-This stop watch was created by [Onur TÜFEKCI].
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
